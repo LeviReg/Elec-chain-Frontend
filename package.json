@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "ganache-cli": "^6.12.1",
     "truffle": "^5.1.53",
     "vue": "^2.6.11"
   },
